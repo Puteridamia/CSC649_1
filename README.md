@@ -17,7 +17,7 @@ This program accepts a sentence from the user and calculates the word count as w
   - Displays: "You did not enter a sentence."
 - **Extra spaces:** "   Hello   world   " 
   - Word count: 2
-  - Character count (including spaces): 19
+  - Character count (including spaces): 13
   - Character count (excluding spaces): 10
 
 ## Limitation
